@@ -53,8 +53,7 @@ Endpoints are described below.
     curl -i -H 'Accept: application/json' http://localhost:8080/cars/2
     
  ## TODO
-  
- -Integrate app with database (sqllite/postgres/mongodb)
- -Add auto-incrementator based on ID
- -Add message broker (RabbitMQ)
- -Add docker and manual how to deploy app
+ * Integrate app with database (sqllite/postgres/mongodb)
+ * Add auto-incrementator based on ID
+ * Add message broker (RabbitMQ)
+ * Add docker and manual how to deploy app
